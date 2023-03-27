@@ -1,0 +1,23 @@
+.Fondo {
+    background: url(P11928964_b_v8_ac.webp);
+    position: absolute;
+    padding: auto;
+    opacity: 1;
+    width: 12em;
+    height: 5.5em;
+   
+    
+
+}
+
+p {
+    display: flex;
+    text-align: center;
+}
+
+section{
+    height: 100rem;
+    
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}

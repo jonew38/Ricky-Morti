@@ -1,0 +1,42 @@
+.Header {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkcyan;
+   
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 25px;
+
+}
+
+
+.Star{
+    padding: 0px;
+    display: inline-flex;
+    background-image: darkcyan;
+}
+
+
+.Star img {
+    display: inline;
+    align-items: flex-end;
+    width: 35px;
+    height: 35px;
+    padding-inline-start: 800px;
+    margin-inline-end: auto;
+    background-repeat: no-repeat;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+
+}
+
+.produt div {
+    margin: 30px;
+    display: inline-flex;
+    flex-wrap: nowrap;
+}
